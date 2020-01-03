@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/dc/Programming/python/coursera/coursera_diletta/coursera_advanced_machine_learning/Week6/weights_1"
+all_model_checkpoint_paths: "/home/dc/Programming/python/coursera/coursera_diletta/coursera_advanced_machine_learning/Week6/weights_0"
+all_model_checkpoint_paths: "/home/dc/Programming/python/coursera/coursera_diletta/coursera_advanced_machine_learning/Week6/weights_1"

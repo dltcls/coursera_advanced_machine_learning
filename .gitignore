@@ -25,9 +25,12 @@ val2014_sample.zip
 val_img_embeds.pickle
 val_img_fns.pickle
 
+weights_*
+
 # IMAGES
-*.jpg
-*.jpeg
+*.jpg*
+*.jpeg*
+
 
 # files
 
