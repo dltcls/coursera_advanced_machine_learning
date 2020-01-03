@@ -1,3 +1,51 @@
+.ipynb_checkpoints
+readonly
+__pycache__
+*.pyc
+*.npy
+
+# week 2
+tensorboard_logs
+
+# week3
+102flowers.tgz
+imagelabels.mat
+
+# week4
+lfw-deepfunneled.tgz
+lfw.tgz
+lfw_attributes.txt
+
+# week6
+captions_train-val2014.zip
+train2014_sample.zip
+train_img_embeds.pickle
+train_img_fns.pickle
+val2014_sample.zip
+val_img_embeds.pickle
+val_img_fns.pickle
+
+# IMAGES
+*.jpg
+*.jpeg
+
+# files
+
+*.gzip
+*.zip
+*.tar
+*.tgz
+
+# general pickle
+*.pickle
+
+# models
+*.h5
+*.hdf5
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
