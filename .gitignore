@@ -46,7 +46,11 @@ weights_*
 *.h5
 *.hdf5
 
+# other
+checkpoint
+weights*
 
+logs
 
 
 # Byte-compiled / optimized / DLL files
